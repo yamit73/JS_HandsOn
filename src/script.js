@@ -1,3 +1,4 @@
-let lastNameLength = 0;
+let firstLetterOfLastName = "";
 const lastName = "Lovelace";
-lastNameLength = lastName.length;
+
+firstLetterOfLastName = lastName[0];
