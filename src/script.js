@@ -1,3 +1,2 @@
-//this is inline comment
-/*this is  inline comment */
-var myName;
+var a;
+a=7;
