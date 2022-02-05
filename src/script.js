@@ -1,1 +1,2 @@
-const myArray = [[1,2,3,4]];
+const myArray = [50, 60, 70];
+let myData=myArray[0];
