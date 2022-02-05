@@ -1,4 +1,6 @@
-let firstLetterOfLastName = "";
-const lastName = "Lovelace";
+// Setup
+let myStr = "Jello World";
 
-firstLetterOfLastName = lastName[0];
+// Only change code below this line
+myStr = "Hello World";  // Change this line
+// Only change code above this line
