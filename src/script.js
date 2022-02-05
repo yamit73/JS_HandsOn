@@ -1,1 +1,1 @@
-const myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; 
+const myStr = "This is the start."+" This is the end.";
