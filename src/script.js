@@ -1,1 +1,4 @@
-const myList = [["x",1],["y,",2],["f",5],["o",9],["v",5]];
+function reusableFunction() {
+    console.log("Hi World");
+  }
+  reusableFunction();
